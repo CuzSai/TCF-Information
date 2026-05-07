@@ -609,7 +609,7 @@
     "faction": "ICA",
     "factionRep": 93,
     "penetration": 20,
-    "directDamage": 27,
+    "directDamage": 28,
     "radialDamage": 0,
     "refireTime": 0.4,
     "reloadTime": 2.55,
